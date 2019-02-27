@@ -1,0 +1,10 @@
+body {
+  padding-top: 5rem;
+}
+.registration-form {
+  padding: 3rem 1.5rem;
+  background-color: #3E4551;   
+}
+.form-group label {
+	color: #fff;
+}
